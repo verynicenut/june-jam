@@ -37,4 +37,4 @@ class Program
         Console.WriteLine(c1.Health); // 0
         Console.WriteLine(Character.CharacterCount); // 2
     }
-}
+}i
